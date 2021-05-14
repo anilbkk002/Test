@@ -1,0 +1,9 @@
+{
+	"name": "Anil-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "411549aa-9913-48e4-a71d-8e97289ca966",
+		"tenantId": "ea08b433-921c-4b17-8d98-adfda8b18815"
+	}
+}
